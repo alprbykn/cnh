@@ -1,5 +1,5 @@
 # cnh
-home page with coingecko api + bootstrap table + internal image files using html-css-js-php-mysql-xampp
+responsive home page with coingecko api + bootstrap table + internal image files using html-css-js-php-mysql-xampp
 with the database connection looks like that
 
 
