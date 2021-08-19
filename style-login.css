@@ -1,0 +1,83 @@
+body{
+	justify-content: center;
+	display: flex;
+	align-items: center;
+}
+.container-signup{
+justify-content: center;
+	max-height: 512px;
+	border-radius: 16px;
+	max-width: 600px;
+	
+}
+.card-signup{
+	padding: 1%;
+	justify-content: center;
+	text-align: center;
+	border-radius: 16px;
+	height: 512px;
+	background-image: linear-gradient(to left, #010340 ,#0088ff);
+	max-width: 600px;
+	overflow: hidden;
+	box-shadow: 0 10px 12px #010597;
+	z-index: 0;
+	box-sizing: border-box;x
+}
+.circle{
+	position: absolute;
+	bottom: -230px;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	clip-path: circle(50%);
+	height: 728px;
+	width: 500px;
+	z-index: -1;
+	overflow: hidden;
+}
+.myHed{
+	padding: 1%;
+	margin-top: 30px;
+	font-size: 31px;
+	margin-bottom: 10px;
+	font-weight: 699;
+
+
+	}
+.far{
+	font-size: 40px;
+}
+.fas{
+	position: relative;
+	display: block;
+	color: white;
+}
+.check1{
+	color: white;
+}
+.button{
+	border: none;
+	margin: 5px;
+	width: 128px;
+	border-radius: 15px;
+	background-image: linear-gradient(to left, #010340 ,#0088ff);;
+}
+.button:hover{
+	background-image: linear-gradient(to right, #020680 ,#0088ff);
+}
+.myemail{
+	width: 220px;
+	padding: 8px;
+	border-radius: 15px;
+	margin: 5px;
+}
+.mypw{
+	width: 220px;
+	margin: 5px;
+	padding: 8px;
+	border-radius: 15px;
+}
+@media (min-width:  768px){
+	.container{
+		max-width: 100%;
+	}
+}

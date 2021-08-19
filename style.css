@@ -1,0 +1,111 @@
+.body{
+	margin: 0px;
+}
+h5{
+	margin: 0px;
+	background-color: #010340 ;
+	color: white;
+	border: none;
+}
+
+
+.sitewelcome .welcome{
+	font-style: italic;
+	float: left;
+	margin-left: 73px;
+
+}
+
+.sitewelcome{
+	min-width: 512px;
+	background-color: #010340 ;
+	border: none;
+}
+.sitewelcome{
+	margin-top: ;
+	padding: 60px;
+	/*text-align: right;*/
+
+}
+.sitewelcome .link{
+	float: right;
+	text-align: right;
+	margin-right: 20px;
+	
+}
+.sitewelcome .link:hover{
+	color: white;
+	transition-property: color;
+	transition-duration: 0.2s;
+}
+.sitewelcome .welcome:hover{
+	color: white;
+	transition-property: color;
+	transition-duration: 0.2s;
+}
+.sitewelcome a{
+	color: grey;
+	text-decoration: none;
+	text-align: right;
+	
+}
+.sitewelcome img{
+
+height: 50px;
+	width: 60px;
+	padding-left: 0px;
+	margin-top: -12px;
+	float: left;
+
+}
+#logo{
+	text-align: left;
+}
+.navbar-dark{
+	background-color: #010340;
+}
+.table-responsive{
+margin: 150px 150px 10px 150px;
+}
+td:hover{
+	color: grey;
+	transition-property: black;
+	transition-duration: 0.2s;
+}
+.exchanges-table {
+	margin: 150px 150px 10px 150px;
+	overflow-y: auto;
+}
+.cointable{
+	margin-right: 100px;
+}
+.table-responsive img{
+	height: 40px;
+	width: 40px;
+}
+.navbar-dark #signup{
+	float: right;
+}
+.form-floating .mb-3{
+	padding-top: 1500px;
+}
+.container{
+
+}
+.inp{
+	height: 50px;
+	width: 470px;
+	border: none;
+	outline: none;
+	border-radius: 20px;
+}
+.btnlogin{
+height: 50px;
+width: 50%;
+border: none;
+outline: none;
+border-radius: 10px;
+font-weight: 300;
+background: rgb(53, 120, 250);
+}
+
